@@ -1,1 +1,3 @@
-# .github
+# festivales.wiki
+
+Tu agenda de festivales y conciertos de ska, punk, rock, indie...
